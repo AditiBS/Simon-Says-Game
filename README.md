@@ -34,7 +34,10 @@ A modern web browser (Chrome, Firefox, Edge, Safari).
 
 ### How to Play
 1.Watch the sequence of colored buttons light up with sounds.
+
 2.Repeat the sequence by clicking the buttons in the same order.
+
 3.The pattern increases by one each round.
+
 4.If you click the wrong button, the game ends and restarts.
 
